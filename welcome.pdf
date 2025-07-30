@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome Page</title>
+</head>
+<body style="margin: 0; height: 100vh;">
+  <embed src="welcome.pdf" width="100%" height="100%" type="application/pdf">
+</body>
+</html>
